@@ -10,5 +10,8 @@ I'm learning Git and version control to track my work.
 - Push my work to GitHub
 ```
 # What i learned Today
-- Git tracks the changes of Files over time
+- ```markdown
+## What I Learned Today
+- Git is like a time machine for your files
+- Every commit is a snapshot you can go back to
 ```
