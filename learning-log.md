@@ -9,3 +9,6 @@ I'm learning Git and version control to track my work.
 - Learn branching and merging
 - Push my work to GitHub
 ```
+# What i learned Today
+- Git tracks the changes of Files over time
+```
