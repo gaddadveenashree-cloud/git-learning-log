@@ -12,4 +12,11 @@
 - [GitHub Docs](https://docs.github.com) - Official GitHub documentation
 - [Oh My Git!](https://ohmygit.org) - Interactive game to learn Git
 ```
---- Creating one more Branch
+
+## Next Steps
+- Learn about rebasing and interactive rebase
+```
+```markdown
+- Explore GitHub Actions for automation
+- Practice contributing to open source projects
+```
