@@ -16,3 +16,7 @@
 ## Next Steps
 - Learn about rebasing and interactive rebase
 ```
+```markdown
+- Explore GitHub Actions for automation
+- Practice contributing to open source projects
+```
