@@ -24,3 +24,11 @@ git push uploads your new commit to GitHub so it is backed up remotely.
 - git revert is safe for shared/pushed branches because it doesn't rewrite history
 - The original commit stays in the log, plus a new "undo" commit is added
 ```
+```markdown
+
+## Reflog
+
+- git reflog: shows everywhere HEAD has pointed (commits, resets, checkouts)
+- Reflog entries last about 90 days before being garbage collected
+- To recover: find the SHA in reflog, then git branch <name> <SHA>
+```
