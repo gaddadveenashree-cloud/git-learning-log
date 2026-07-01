@@ -20,6 +20,3 @@
 - Explore GitHub Actions for automation
 - Practice contributing to open source projects
 ```
--```markdown
-- WRONG: always rebase shared branches to keep history clean
-```
