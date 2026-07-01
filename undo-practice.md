@@ -40,3 +40,4 @@ git push uploads your new commit to GitHub so it is backed up remotely.
 - Creates a new commit with the same changes but a different SHA
 - Use for hotfixes: fix on feature branch, cherry-pick to main
 ```
+- Adding the bad advice to check the reset option
